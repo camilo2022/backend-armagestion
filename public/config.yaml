@@ -1,0 +1,7 @@
+database:
+  dbname: armagestion
+  dbhost: 172.16.10.107
+  dbport: 5432
+  dbuser: armagestion
+  dbpasw: Armagdos2
+
